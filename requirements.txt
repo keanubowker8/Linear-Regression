@@ -1,0 +1,15 @@
+To run this you're going to need:
+-jupter notebook
+
+I used:
+-python3
+
+These are the package imports you'll need imports;
+-import pandas as pd
+-import numpy as np
+-from sklearn.model_selection import train_test_split
+-import statsmodels.api as sm
+-import seaborn as sns
+-import matplotlib.pyplot as plt
+-from scipy.stats import pearsonr
+-from sklearn import metrics 
