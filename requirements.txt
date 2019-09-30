@@ -2,7 +2,7 @@ To run this you're going to need:
 -jupter notebook
 
 I used:
--python3
+-python 3
 
 These are the package imports you'll need imports;
 -import pandas as pd
