@@ -1,8 +1,12 @@
 # Key topics
 -Simple linear regression
+
 -Residuals
+
 -Overfitting and underfitting
+
 -Cross-validation
+
 -Root Mean Square Error
 
 # Assignment
