@@ -1,13 +1,9 @@
 # Key topics
--Simple linear regression
-
--Residuals
-
--Overfitting and underfitting
-
--Cross-validation
-
--Root Mean Square Error
+- Simple linear regression
+- Residuals
+- Overfitting and underfitting
+- Cross-validation
+- Root Mean Square Error
 
 # Assignment
 We will predict employee salaries from different employee characteristics (or features). We are going to use a simple supervised learning technique: linear regression. We want to build a simple model to determine how well Years Worked predicts an employee’s salary. Import the data salary.csv to a Jupyter Notebook. A description of the variables is given in Salary Metadata. You will need the packages matplotlib, pandas and statsmodels.
